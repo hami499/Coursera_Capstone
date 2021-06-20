@@ -1,2 +1,6 @@
+##INTRODUCTION##
 In this module, i have chosen to use FourSquare API in order to help people have a better idea of what business to open by using recommendations from FourSquare and the most visited attraction/spots by New Yorkers.
 This model would be ideal for new entrepreneurs who need help in understanding the needs of specific communities by going through this model, they actually have an idea as to what category of business would suit in whatever neighbourhood they try to start their business in.
+
+##DATA##
+I have used the New York Neighborhood Data from the previous week so that i can get the names of the neighborhoods and their latitudes and longituted so that i can segment them into clusters with the FourSquare data in order to better understand the most visited spots by neighborhoods.
